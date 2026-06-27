@@ -46,5 +46,5 @@ However, the model exhibits a consistent downward vertical shift. Because standa
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yourusername/Stock-Prediction-ANN.git](https://github.com/yourusername/Stock-Prediction-ANN.git)
+   git clone [https://github.com/yourusername/Stock-Prediction-ANN.git](https://github.com/CodeAlchemistJee/Stock-Prediction-ANN.git)
    cd Stock-Prediction-ANN
